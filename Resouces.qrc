@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/line.png</file>
+        <file>img/Select.png</file>
+        <file>img/resize.png</file>
+        <file>img/remove-icon.png</file>
+        <file>img/folder.png</file>
+        <file>img/save.png</file>
+        <file>img/circle.png</file>
+        <file>img/rectangle.png</file>
+        <file>img/save as.png</file>
+        <file>img/Redo.png</file>
+        <file>img/Undo.png</file>
+    </qresource>
+</RCC>
